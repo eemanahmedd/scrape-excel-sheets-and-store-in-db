@@ -1,0 +1,2 @@
+serial_key,vehicle_line,model_year,order_bank_opens,order_bank_opens_commercial,scheduling_begins,scheduling_begins_vso,scheduling_next_week,scheduling_production_week,job_1_date,job_1_date_vso,balance_out_date,balance_out_date_vso,last_day_to_spec_change_or_cancel,final_order_due_date_state_and_local,final_order_due_date_commercial
+econoline_24MY,Econoline,24MY,10/27/2022,Please review Quarterly table below,11/17/2022,12/16/2022,No Scheduling,No Scheduling,01/03/2023,01/03/2023,TBD,TBD,TBD,11/11/2022,Please review Quarterly table below

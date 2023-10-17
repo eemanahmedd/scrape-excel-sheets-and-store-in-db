@@ -1,0 +1,2 @@
+serial_key,vehicle_line,model_year,order_bank_opens,order_bank_opens_vso,scheduling_begins,scheduling_begins_vso,scheduling_next_week,scheduling_production_week,job_1_date,job_1_date_vso,balance_out_date,balance_out_date_vso,last_day_to_spec_change_or_cancel,final_order_due_date,final_order_due_date_vso
+motorhome_23MY,Motorhome,23MY,10/06/2022,10/26/2022,10/13/2022,11/10/2022,Scheduling for April,4/24,01/03/2023,01/19/2023,TBD,TBD,TBD,TBD,TBD

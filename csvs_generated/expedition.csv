@@ -1,0 +1,3 @@
+serial_key,vehicle_line,model_year,order_bank_opens,scheduling_begins,scheduling_next_week,scheduling_production_week,job_1_date,balance_out_date,last_day_to_spec_change_or_cancel,final_order_due_date_non-state_and_local,final_order_due_date_state_and_local_ssv,final_order_due_date_state_and_local_non-ssv
+expedition_23MY,Expedition,23MY,08/15/2022,09/22/2022,Scheduling for April,4/3 - 4/24,11/30/2022,08/27/2023,TBD,TBD,09/30/2022,10/07/2022
+expedition_24MY,Expedition,24MY,06/12/2023,TBD,N/A,N/A,08/28/2023,TBD,TBD,TBD,TBD,TBD

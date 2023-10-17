@@ -1,0 +1,2 @@
+serial_key,vehicle_line,model_year,order_bank_opens,order_bank_opens_vso,scheduling_begins,scheduling_begins_vso,scheduling_next_week,scheduling_production_week,job_1_date,job_1_date_vso,balance_out_date,balance_out_date_vso,last_day_to_spec_change_or_cancel,final_order_due_date_commercial,final_order_due_date_state_and_local
+medium_truck_24MY,Medium Truck,24MY,10/27/2022,11/14/2022,11/17/2022,12/16/2022,No Scheduling,No Scheduling,01/05/2023,01/30/2023,TBD,TBD,TBD,TBD,02/17/2023

@@ -1,0 +1,3 @@
+serial_key,vehicle_line,model_year,order_bank_opens,scheduling_begins,scheduling_next_week,scheduling_production_week,job_1_date,balance_out_date,last_day_to_spec_change_or_cancel,final_order_due_date_state_and_local,final_order_due_date_commercial,order_bank_opens_state_and_local_and_federal_govt,final_order_due_date_state_and_local_and_federal_govt
+edge_23MY,Edge,23MY,08/16/2022,09/15/2022,No Scheduling,No Scheduling,12/14/2022,07/14/2023,TBD,11/11/2022,02/10/2023,,
+edge_24MY,Edge,24MY,05/15/2023,TBD,TBD,TBD,07/17/2023,TBD,TBD,,TBD,TBD,TBD

@@ -1,0 +1,2 @@
+serial_key,vehicle_line,model_year,order_bank_opens,scheduling_begins,scheduling_next_week,scheduling_production_week,job_1_date,balance_out_date,last_day_to_spec_change_or_cancel,final_order_due_date_state_and_local_fhev,final_order_due_date_state_and_local_gas,final_order_due_date_state_and_local_phev,final_order_due_date_commercial
+escape_23MY,Escape,23MY,09/19/2022,11/03/2022,No Scheduling,No Scheduling,01/03/2023,TBD,TBD,09/23/2022,09/29/2022,09/29/2022,Please review Quarterly table below

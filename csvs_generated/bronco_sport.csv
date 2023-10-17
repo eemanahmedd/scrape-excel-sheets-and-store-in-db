@@ -1,0 +1,2 @@
+serial_key,vehicle_line,model_year,order_bank_opens,scheduling_begins,scheduling_next_week,scheduling_production_week,job_1_date,balance_out_date,last_day_to_spec_change_or_cancel,final_order_due_date_state_and_local,final_order_due_date_commercial
+bronco_sport_23MY,Bronco Sport,23MY,08/05/2022,09/15/2022,No Scheduling,No Scheduling,12/02/2022,TBD,TBD,11/11/2022,TBD

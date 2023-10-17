@@ -1,0 +1,16 @@
+paths:
+  path to main csv: "C:/Users/Eman/Downloads/FDNB 2309 3.03.2023.xlsx"
+
+vehicle line types:
+  no fuel types: Aviator, Bronco, Bronco Sport, Corsair, Econoline, Edge, Escape, Expedition, Explorer, Motorhome, Medium Truck, Mustang, Mustang Mach E, Nautilis, Navigator, Ranger, Transit Connect
+  fuel types: F-150, Super Duty
+  sub-fuel types: Maverick, Transit
+
+values to compare: Down Weeks, Allocation Quarter, Constrained Commodity Information, Constrained Commodity Information-Explorer
+
+database_details:
+  database: 
+  host: 
+  password: 
+  port: '54321'
+  user: server
